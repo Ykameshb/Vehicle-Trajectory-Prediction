@@ -1,4 +1,5 @@
-# Vehicle Trajectory Prediction using LSTM
+## Project Link
+🔗 https://github.com/Ykameshb/Vehicle-Trajectory-Prediction# Vehicle Trajectory Prediction using LSTM
 
 ## Overview
 This project predicts future vehicle GPS coordinates using an LSTM deep learning model.
@@ -26,4 +27,5 @@ Rome Taxi GPS Dataset (Kaggle)
 The model successfully predicts future GPS trajectory points with low error.
 
 ## Author
+
 Kameshwaar Bilhaan
